@@ -27,6 +27,10 @@ public class RequestHospedajeDTO {
     @NotNull
     private Boolean incluyeDesayuno;
 
+
+
+
+
     @NotNull
     private Boolean incluyeEstacionamiento;
 
